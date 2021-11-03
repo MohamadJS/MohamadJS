@@ -1,7 +1,6 @@
 - 👋  Hi, I’m @MohamadJS
-- 👀  I’m interested in Programming
-- 🌱  I’m currently learning Java, Javascript
-- 💞️  I’m looking to collaborate on Web Apps
+- 👀  I’m interested in Software Development
+- 🌱  I’m currently learning Java and Javascript
 - 📫  abdu.mohamad.17@gmail.com
 
 <!---
